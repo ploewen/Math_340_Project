@@ -1,0 +1,18 @@
+Animal Type,"Quantity (*1,000)",Gallons Per Day,Total Gallons Per Month
+Bulls > 1 year,12.9,12,4644000
+Dairy Cows ,81.3,36,87804000
+Dairy Heifers for breeding ,38.5,12,13860000
+Beef Cows,198.4,10,59520000
+Beef Heifers for breeding,40.5,9,10935000
+Beef Heifers for slaughter,17.1,9,4617000
+Steers > 1 year for slaughter,22.6,12,8136000
+Calves < 1 year,168.7,3,15183000
+Breeding stock > 6 months,8.1,2,486000
+All other hogs,77.9,2,4674000
+"Sheep, 1 year or older",24.7,3.5,2593500
+"Lambs, under 1 year",14.8,2,888000
+Bison,10,12,3600000
+Fallow Deer,0.4,2.5,30000
+Layer Chicken,3300,0.065,6435000
+Non-layer chicken,118685,0.045,160224750
+Turkey,2076,0.1725,10743300
