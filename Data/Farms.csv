@@ -1,0 +1,601 @@
+Province ,Farm_Area_Size,NAICS,Description,Gross_Farm_Receipt_Category,Number_of_Farms
+British Columbia,All,11,All,Total ,"17,528"
+British Columbia,All,11211,Dairy cattle and milk production,Total ,517
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots",Total ,"2,362"
+British Columbia,All,11221,Hog and pig farming,Total ,101
+British Columbia,All,1123,Poultry and egg production,Total ,"1,220"
+British Columbia,All,1124,Sheep and goat farming,Total ,553
+British Columbia,All,1129,Other animal production,Total ,"3,342"
+British Columbia,All,1111,Oilseed and grain farming,Total ,304
+British Columbia,All,1112,Vegetable and melon farming,Total ,"1,135"
+British Columbia,All,1113,Fruit and tree nut farming,Total ,"3,180"
+British Columbia,All,111411,Mushroom production,Total ,45
+British Columbia,All,111419,Other food crops grown under cover,Total ,182
+British Columbia,All,111421,Nursery and tree production,Total ,997
+British Columbia,All,111422,Floriculture production,Total ,275
+British Columbia,All,1119,Other crop farming,Total ,"3,315"
+British Columbia,1 acre,11,All,Total ,430
+British Columbia,1 acre,11211,Dairy cattle and milk production,Total ,3
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots",Total ,4
+British Columbia,1 acre,11221,Hog and pig farming,Total ,1
+British Columbia,1 acre,1123,Poultry and egg production,Total ,62
+British Columbia,1 acre,1124,Sheep and goat farming,Total ,11
+British Columbia,1 acre,1129,Other animal production,Total ,128
+British Columbia,1 acre,1111,Oilseed and grain farming,Total ,0
+British Columbia,1 acre,1112,Vegetable and melon farming,Total ,55
+British Columbia,1 acre,1113,Fruit and tree nut farming,Total ,54
+British Columbia,1 acre,111411,Mushroom production,Total ,6
+British Columbia,1 acre,111419,Other food crops grown under cover,Total ,13
+British Columbia,1 acre,111421,Nursery and tree production,Total ,45
+British Columbia,1 acre,111422,Floriculture production,Total ,25
+British Columbia,1 acre,1119,Other crop farming,Total ,23
+British Columbia,2-10 acres,11,All,Total ,"6,102"
+British Columbia,2-10 acres,11211,Dairy cattle and milk production,Total ,31
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots",Total ,240
+British Columbia,2-10 acres,11221,Hog and pig farming,Total ,53
+British Columbia,2-10 acres,1123,Poultry and egg production,Total ,772
+British Columbia,2-10 acres,1124,Sheep and goat farming,Total ,276
+British Columbia,2-10 acres,1129,Other animal production,Total ,"1,189"
+British Columbia,2-10 acres,1111,Oilseed and grain farming,Total ,22
+British Columbia,2-10 acres,1112,Vegetable and melon farming,Total ,611
+British Columbia,2-10 acres,1113,Fruit and tree nut farming,Total ,"1,537"
+British Columbia,2-10 acres,111411,Mushroom production,Total ,24
+British Columbia,2-10 acres,111419,Other food crops grown under cover,Total ,87
+British Columbia,2-10 acres,111421,Nursery and tree production,Total ,582
+British Columbia,2-10 acres,111422,Floriculture production,Total ,159
+British Columbia,2-10 acres,1119,Other crop farming,Total ,519
+British Columbia,11 acres and over,11,All,Total ,"10,996"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production,Total ,483
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots",Total ,"2,118"
+British Columbia,11 acres and over,11221,Hog and pig farming,Total ,47
+British Columbia,11 acres and over,1123,Poultry and egg production,Total ,386
+British Columbia,11 acres and over,1124,Sheep and goat farming,Total ,266
+British Columbia,11 acres and over,1129,Other animal production,Total ,"2,025"
+British Columbia,11 acres and over,1111,Oilseed and grain farming,Total ,282
+British Columbia,11 acres and over,1112,Vegetable and melon farming,Total ,469
+British Columbia,11 acres and over,1113,Fruit and tree nut farming,Total ,"1,589"
+British Columbia,11 acres and over,111411,Mushroom production,Total ,15
+British Columbia,11 acres and over,111419,Other food crops grown under cover,Total ,82
+British Columbia,11 acres and over,111421,Nursery and tree production,Total ,370
+British Columbia,11 acres and over,111422,Floriculture production,Total ,91
+British Columbia,11 acres and over,1119,Other crop farming,Total ,"2,773"
+British Columbia,All,11,All,"Under $2,500 ","1,656"
+British Columbia,All,11211,Dairy cattle and milk production,"Under $2,500 ",11
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots","Under $2,500 ",75
+British Columbia,All,11221,Hog and pig farming,"Under $2,500 ",15
+British Columbia,All,1123,Poultry and egg production,"Under $2,500",170
+British Columbia,All,1124,Sheep and goat farming,"Under $2,500",86
+British Columbia,All,1129,Other animal production,"Under $2,500",424
+British Columbia,All,1111,Oilseed and grain farming,"Under $2,500",12
+British Columbia,All,1112,Vegetable and melon farming,"Under $2,500",164
+British Columbia,All,1113,Fruit and tree nut farming,"Under $2,500",248
+British Columbia,All,111411,Mushroom production,"Under $2,500",6
+British Columbia,All,111419,Other food crops grown under cover,"Under $2,500",12
+British Columbia,All,111421,Nursery and tree production,"Under $2,500",119
+British Columbia,All,111422,Floriculture production,"Under $2,500",9
+British Columbia,All,1119,Other crop farming,"Under $2,500",305
+British Columbia,1 acre,11,All,"Under $2,500",166
+British Columbia,1 acre,11211,Dairy cattle and milk production,"Under $2,500",1
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots","Under $2,500",1
+British Columbia,1 acre,11221,Hog and pig farming,"Under $2,500",0
+British Columbia,1 acre,1123,Poultry and egg production,"Under $2,500",29
+British Columbia,1 acre,1124,Sheep and goat farming,"Under $2,500",6
+British Columbia,1 acre,1129,Other animal production,"Under $2,500",53
+British Columbia,1 acre,1111,Oilseed and grain farming,"Under $2,500",0
+British Columbia,1 acre,1112,Vegetable and melon farming,"Under $2,500",19
+British Columbia,1 acre,1113,Fruit and tree nut farming,"Under $2,500",25
+British Columbia,1 acre,111411,Mushroom production,"Under $2,500",2
+British Columbia,1 acre,111419,Other food crops grown under cover,"Under $2,500",2
+British Columbia,1 acre,111421,Nursery and tree production,"Under $2,500",15
+British Columbia,1 acre,111422,Floriculture production,"Under $2,500",3
+British Columbia,1 acre,1119,Other crop farming,"Under $2,500",10
+British Columbia,2-10 acres,11,All,"Under $2,500",854
+British Columbia,2-10 acres,11211,Dairy cattle and milk production,"Under $2,500",3
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots","Under $2,500",20
+British Columbia,2-10 acres,11221,Hog and pig farming,"Under $2,500",12
+British Columbia,2-10 acres,1123,Poultry and egg production,"Under $2,500",115
+British Columbia,2-10 acres,1124,Sheep and goat farming,"Under $2,500",54
+British Columbia,2-10 acres,1129,Other animal production,"Under $2,500",191
+British Columbia,2-10 acres,1111,Oilseed and grain farming,"Under $2,500",6
+British Columbia,2-10 acres,1112,Vegetable and melon farming,"Under $2,500",103
+British Columbia,2-10 acres,1113,Fruit and tree nut farming,"Under $2,500",175
+British Columbia,2-10 acres,111411,Mushroom production,"Under $2,500",3
+British Columbia,2-10 acres,111419,Other food crops grown under cover,"Under $2,500",7
+British Columbia,2-10 acres,111421,Nursery and tree production,"Under $2,500",86
+British Columbia,2-10 acres,111422,Floriculture production,"Under $2,500",6
+British Columbia,2-10 acres,1119,Other crop farming,"Under $2,500",73
+British Columbia,11 acres and over,11,All,"Under $2,500",636
+British Columbia,11 acres and over,11211,Dairy cattle and milk production,"Under $2,500",7
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots","Under $2,500",54
+British Columbia,11 acres and over,11221,Hog and pig farming,"Under $2,500",3
+British Columbia,11 acres and over,1123,Poultry and egg production,"Under $2,500",26
+British Columbia,11 acres and over,1124,Sheep and goat farming,"Under $2,500",26
+British Columbia,11 acres and over,1129,Other animal production,"Under $2,500",180
+British Columbia,11 acres and over,1111,Oilseed and grain farming,"Under $2,500",6
+British Columbia,11 acres and over,1112,Vegetable and melon farming,"Under $2,500",42
+British Columbia,11 acres and over,1113,Fruit and tree nut farming,"Under $2,500",48
+British Columbia,11 acres and over,111411,Mushroom production,"Under $2,500",1
+British Columbia,11 acres and over,111419,Other food crops grown under cover,"Under $2,500",3
+British Columbia,11 acres and over,111421,Nursery and tree production,"Under $2,500",18
+British Columbia,11 acres and over,111422,Floriculture production,"Under $2,500",0
+British Columbia,11 acres and over,1119,Other crop farming,"Under $2,500",222
+British Columbia,All,11,All," $2,500 to $4,999 ","3,094"
+British Columbia,All,11211,Dairy cattle and milk production," $2,500 to $4,999 ",12
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $2,500 to $4,999 ",182
+British Columbia,All,11221,Hog and pig farming," $2,500 to $4,999",24
+British Columbia,All,1123,Poultry and egg production," $2,500 to $4,999",234
+British Columbia,All,1124,Sheep and goat farming," $2,500 to $4,999",178
+British Columbia,All,1129,Other animal production," $2,500 to $4,999",800
+British Columbia,All,1111,Oilseed and grain farming," $2,500 to $4,999",27
+British Columbia,All,1112,Vegetable and melon farming," $2,500 to $4,999",255
+British Columbia,All,1113,Fruit and tree nut farming," $2,500 to $4,999",418
+British Columbia,All,111411,Mushroom production," $2,500 to $4,999",6
+British Columbia,All,111419,Other food crops grown under cover," $2,500 to $4,999",24
+British Columbia,All,111421,Nursery and tree production," $2,500 to $4,999",256
+British Columbia,All,111422,Floriculture production," $2,500 to $4,999",10
+British Columbia,All,1119,Other crop farming," $2,500 to $4,999",668
+British Columbia,1 acre,11,All," $2,500 to $4,999",72
+British Columbia,1 acre,11211,Dairy cattle and milk production," $2,500 to $4,999",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $2,500 to $4,999",1
+British Columbia,1 acre,11221,Hog and pig farming," $2,500 to $4,999",0
+British Columbia,1 acre,1123,Poultry and egg production," $2,500 to $4,999",11
+British Columbia,1 acre,1124,Sheep and goat farming," $2,500 to $4,999",0
+British Columbia,1 acre,1129,Other animal production," $2,500 to $4,999",16
+British Columbia,1 acre,1111,Oilseed and grain farming," $2,500 to $4,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $2,500 to $4,999",10
+British Columbia,1 acre,1113,Fruit and tree nut farming," $2,500 to $4,999",11
+British Columbia,1 acre,111411,Mushroom production," $2,500 to $4,999",1
+British Columbia,1 acre,111419,Other food crops grown under cover," $2,500 to $4,999",2
+British Columbia,1 acre,111421,Nursery and tree production," $2,500 to $4,999",11
+British Columbia,1 acre,111422,Floriculture production," $2,500 to $4,999",2
+British Columbia,1 acre,1119,Other crop farming," $2,500 to $4,999",7
+British Columbia,2-10 acres,11,All," $2,500 to $4,999","1,802"
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $2,500 to $4,999",9
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $2,500 to $4,999",71
+British Columbia,2-10 acres,11221,Hog and pig farming," $2,500 to $4,999",14
+British Columbia,2-10 acres,1123,Poultry and egg production," $2,500 to $4,999",194
+British Columbia,2-10 acres,1124,Sheep and goat farming," $2,500 to $4,999",122
+British Columbia,2-10 acres,1129,Other animal production," $2,500 to $4,999",404
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $2,500 to $4,999",8
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $2,500 to $4,999",189
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $2,500 to $4,999",317
+British Columbia,2-10 acres,111411,Mushroom production," $2,500 to $4,999",4
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $2,500 to $4,999",12
+British Columbia,2-10 acres,111421,Nursery and tree production," $2,500 to $4,999",208
+British Columbia,2-10 acres,111422,Floriculture production," $2,500 to $4,999",7
+British Columbia,2-10 acres,1119,Other crop farming," $2,500 to $4,999",243
+British Columbia,11 acres and over,11,All," $2,500 to $4,999","1,220"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $2,500 to $4,999",3
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $2,500 to $4,999",110
+British Columbia,11 acres and over,11221,Hog and pig farming," $2,500 to $4,999",10
+British Columbia,11 acres and over,1123,Poultry and egg production," $2,500 to $4,999",29
+British Columbia,11 acres and over,1124,Sheep and goat farming," $2,500 to $4,999",56
+British Columbia,11 acres and over,1129,Other animal production," $2,500 to $4,999",380
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $2,500 to $4,999",19
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $2,500 to $4,999",56
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $2,500 to $4,999",90
+British Columbia,11 acres and over,111411,Mushroom production," $2,500 to $4,999",1
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $2,500 to $4,999",10
+British Columbia,11 acres and over,111421,Nursery and tree production," $2,500 to $4,999",37
+British Columbia,11 acres and over,111422,Floriculture production," $2,500 to $4,999",1
+British Columbia,11 acres and over,1119,Other crop farming," $2,500 to $4,999",418
+British Columbia,All,11,All," $5,000 to $9,999 ","2,545"
+British Columbia,All,11211,Dairy cattle and milk production," $5,000 to $9,999 ",12
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $5,000 to $9,999 ",277
+British Columbia,All,11221,Hog and pig farming," $5,000 to $9,999",28
+British Columbia,All,1123,Poultry and egg production," $5,000 to $9,999",146
+British Columbia,All,1124,Sheep and goat farming," $5,000 to $9,999",119
+British Columbia,All,1129,Other animal production," $5,000 to $9,999",630
+British Columbia,All,1111,Oilseed and grain farming," $5,000 to $9,999",26
+British Columbia,All,1112,Vegetable and melon farming," $5,000 to $9,999",183
+British Columbia,All,1113,Fruit and tree nut farming," $5,000 to $9,999",307
+British Columbia,All,111411,Mushroom production," $5,000 to $9,999",3
+British Columbia,All,111419,Other food crops grown under cover," $5,000 to $9,999",19
+British Columbia,All,111421,Nursery and tree production," $5,000 to $9,999",136
+British Columbia,All,111422,Floriculture production," $5,000 to $9,999",11
+British Columbia,All,1119,Other crop farming," $5,000 to $9,999",648
+British Columbia,1 acre,11,All," $5,000 to $9,999",51
+British Columbia,1 acre,11211,Dairy cattle and milk production," $5,000 to $9,999",1
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $5,000 to $9,999",0
+British Columbia,1 acre,11221,Hog and pig farming," $5,000 to $9,999",1
+British Columbia,1 acre,1123,Poultry and egg production," $5,000 to $9,999",7
+British Columbia,1 acre,1124,Sheep and goat farming," $5,000 to $9,999",2
+British Columbia,1 acre,1129,Other animal production," $5,000 to $9,999",12
+British Columbia,1 acre,1111,Oilseed and grain farming," $5,000 to $9,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $5,000 to $9,999",8
+British Columbia,1 acre,1113,Fruit and tree nut farming," $5,000 to $9,999",8
+British Columbia,1 acre,111411,Mushroom production," $5,000 to $9,999",2
+British Columbia,1 acre,111419,Other food crops grown under cover," $5,000 to $9,999",1
+British Columbia,1 acre,111421,Nursery and tree production," $5,000 to $9,999",7
+British Columbia,1 acre,111422,Floriculture production," $5,000 to $9,999",1
+British Columbia,1 acre,1119,Other crop farming," $5,000 to $9,999",1
+British Columbia,2-10 acres,11,All," $5,000 to $9,999",992
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $5,000 to $9,999",6
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $5,000 to $9,999",66
+British Columbia,2-10 acres,11221,Hog and pig farming," $5,000 to $9,999",16
+British Columbia,2-10 acres,1123,Poultry and egg production," $5,000 to $9,999",118
+British Columbia,2-10 acres,1124,Sheep and goat farming," $5,000 to $9,999",53
+British Columbia,2-10 acres,1129,Other animal production," $5,000 to $9,999",212
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $5,000 to $9,999",1
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $5,000 to $9,999",108
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $5,000 to $9,999",216
+British Columbia,2-10 acres,111411,Mushroom production," $5,000 to $9,999",0
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $5,000 to $9,999",14
+British Columbia,2-10 acres,111421,Nursery and tree production," $5,000 to $9,999",85
+British Columbia,2-10 acres,111422,Floriculture production," $5,000 to $9,999",10
+British Columbia,2-10 acres,1119,Other crop farming," $5,000 to $9,999",87
+British Columbia,11 acres and over,11,All," $5,000 to $9,999","1,502"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $5,000 to $9,999",5
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $5,000 to $9,999",211
+British Columbia,11 acres and over,11221,Hog and pig farming," $5,000 to $9,999",11
+British Columbia,11 acres and over,1123,Poultry and egg production," $5,000 to $9,999",21
+British Columbia,11 acres and over,1124,Sheep and goat farming," $5,000 to $9,999",64
+British Columbia,11 acres and over,1129,Other animal production," $5,000 to $9,999",406
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $5,000 to $9,999",25
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $5,000 to $9,999",67
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $5,000 to $9,999",83
+British Columbia,11 acres and over,111411,Mushroom production," $5,000 to $9,999",1
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $5,000 to $9,999",4
+British Columbia,11 acres and over,111421,Nursery and tree production," $5,000 to $9,999",44
+British Columbia,11 acres and over,111422,Floriculture production," $5,000 to $9,999",0
+British Columbia,11 acres and over,1119,Other crop farming," $5,000 to $9,999",560
+British Columbia,All,11,All,"$10,000 to $24,999 ","2,934"
+British Columbia,All,11211,Dairy cattle and milk production,"$10,000 to $24,999 ",14
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots","$10,000 to $24,999",473
+British Columbia,All,11221,Hog and pig farming,"$10,000 to $24,999",8
+British Columbia,All,1123,Poultry and egg production,"$10,000 to $24,999",81
+British Columbia,All,1124,Sheep and goat farming,"$10,000 to $24,999",105
+British Columbia,All,1129,Other animal production,"$10,000 to $24,999",686
+British Columbia,All,1111,Oilseed and grain farming,"$10,000 to $24,999",45
+British Columbia,All,1112,Vegetable and melon farming,"$10,000 to $24,999",160
+British Columbia,All,1113,Fruit and tree nut farming,"$10,000 to $24,999",454
+British Columbia,All,111411,Mushroom production,"$10,000 to $24,999",0
+British Columbia,All,111419,Other food crops grown under cover,"$10,000 to $24,999",22
+British Columbia,All,111421,Nursery and tree production,"$10,000 to $24,999",144
+British Columbia,All,111422,Floriculture production,"$10,000 to $24,999",31
+British Columbia,All,1119,Other crop farming,"$10,000 to $24,999",711
+British Columbia,1 acre,11,All,"$10,000 to $24,999",61
+British Columbia,1 acre,11211,Dairy cattle and milk production,"$10,000 to $24,999",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots","$10,000 to $24,999",1
+British Columbia,1 acre,11221,Hog and pig farming,"$10,000 to $24,999",0
+British Columbia,1 acre,1123,Poultry and egg production,"$10,000 to $24,999",3
+British Columbia,1 acre,1124,Sheep and goat farming,"$10,000 to $24,999",2
+British Columbia,1 acre,1129,Other animal production,"$10,000 to $24,999",22
+British Columbia,1 acre,1111,Oilseed and grain farming,"$10,000 to $24,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming,"$10,000 to $24,999",12
+British Columbia,1 acre,1113,Fruit and tree nut farming,"$10,000 to $24,999",2
+British Columbia,1 acre,111411,Mushroom production,"$10,000 to $24,999",0
+British Columbia,1 acre,111419,Other food crops grown under cover,"$10,000 to $24,999",4
+British Columbia,1 acre,111421,Nursery and tree production,"$10,000 to $24,999",3
+British Columbia,1 acre,111422,Floriculture production,"$10,000 to $24,999",8
+British Columbia,1 acre,1119,Other crop farming,"$10,000 to $24,999",4
+British Columbia,2-10 acres,11,All,"$10,000 to $24,999",881
+British Columbia,2-10 acres,11211,Dairy cattle and milk production,"$10,000 to $24,999",3
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots","$10,000 to $24,999",59
+British Columbia,2-10 acres,11221,Hog and pig farming,"$10,000 to $24,999",3
+British Columbia,2-10 acres,1123,Poultry and egg production,"$10,000 to $24,999",50
+British Columbia,2-10 acres,1124,Sheep and goat farming,"$10,000 to $24,999",31
+British Columbia,2-10 acres,1129,Other animal production,"$10,000 to $24,999",185
+British Columbia,2-10 acres,1111,Oilseed and grain farming,"$10,000 to $24,999",4
+British Columbia,2-10 acres,1112,Vegetable and melon farming,"$10,000 to $24,999",84
+British Columbia,2-10 acres,1113,Fruit and tree nut farming,"$10,000 to $24,999",292
+British Columbia,2-10 acres,111411,Mushroom production,"$10,000 to $24,999",0
+British Columbia,2-10 acres,111419,Other food crops grown under cover,"$10,000 to $24,999",12
+British Columbia,2-10 acres,111421,Nursery and tree production,"$10,000 to $24,999",82
+British Columbia,2-10 acres,111422,Floriculture production,"$10,000 to $24,999",13
+British Columbia,2-10 acres,1119,Other crop farming,"$10,000 to $24,999",63
+British Columbia,11 acres and over,11,All,"$10,000 to $24,999","1,992"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production,"$10,000 to $24,999",11
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots","$10,000 to $24,999",413
+British Columbia,11 acres and over,11221,Hog and pig farming,"$10,000 to $24,999",5
+British Columbia,11 acres and over,1123,Poultry and egg production,"$10,000 to $24,999",28
+British Columbia,11 acres and over,1124,Sheep and goat farming,"$10,000 to $24,999",72
+British Columbia,11 acres and over,1129,Other animal production,"$10,000 to $24,999",479
+British Columbia,11 acres and over,1111,Oilseed and grain farming,"$10,000 to $24,999",41
+British Columbia,11 acres and over,1112,Vegetable and melon farming,"$10,000 to $24,999",64
+British Columbia,11 acres and over,1113,Fruit and tree nut farming,"$10,000 to $24,999",160
+British Columbia,11 acres and over,111411,Mushroom production,"$10,000 to $24,999",0
+British Columbia,11 acres and over,111419,Other food crops grown under cover,"$10,000 to $24,999",6
+British Columbia,11 acres and over,111421,Nursery and tree production,"$10,000 to $24,999",59
+British Columbia,11 acres and over,111422,Floriculture production,"$10,000 to $24,999",10
+British Columbia,11 acres and over,1119,Other crop farming,"$10,000 to $24,999",644
+British Columbia,All,11,All," $25,000 to $49,999 ","1,790"
+British Columbia,All,11211,Dairy cattle and milk production," $25,000 to $49,999 ",7
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $25,000 to $49,999 ",369
+British Columbia,All,11221,Hog and pig farming," $25,000 to $49,999",7
+British Columbia,All,1123,Poultry and egg production," $25,000 to $49,999",51
+British Columbia,All,1124,Sheep and goat farming," $25,000 to $49,999",33
+British Columbia,All,1129,Other animal production," $25,000 to $49,999",312
+British Columbia,All,1111,Oilseed and grain farming," $25,000 to $49,999",23
+British Columbia,All,1112,Vegetable and melon farming," $25,000 to $49,999",89
+British Columbia,All,1113,Fruit and tree nut farming," $25,000 to $49,999",375
+British Columbia,All,111411,Mushroom production," $25,000 to $49,999",2
+British Columbia,All,111419,Other food crops grown under cover," $25,000 to $49,999",13
+British Columbia,All,111421,Nursery and tree production," $25,000 to $49,999",81
+British Columbia,All,111422,Floriculture production," $25,000 to $49,999",22
+British Columbia,All,1119,Other crop farming," $25,000 to $49,999",406
+British Columbia,1 acre,11,All," $25,000 to $49,999",34
+British Columbia,1 acre,11211,Dairy cattle and milk production," $25,000 to $49,999",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $25,000 to $49,999",1
+British Columbia,1 acre,11221,Hog and pig farming," $25,000 to $49,999",0
+British Columbia,1 acre,1123,Poultry and egg production," $25,000 to $49,999",4
+British Columbia,1 acre,1124,Sheep and goat farming," $25,000 to $49,999",1
+British Columbia,1 acre,1129,Other animal production," $25,000 to $49,999",7
+British Columbia,1 acre,1111,Oilseed and grain farming," $25,000 to $49,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $25,000 to $49,999",6
+British Columbia,1 acre,1113,Fruit and tree nut farming," $25,000 to $49,999",6
+British Columbia,1 acre,111411,Mushroom production," $25,000 to $49,999",0
+British Columbia,1 acre,111419,Other food crops grown under cover," $25,000 to $49,999",0
+British Columbia,1 acre,111421,Nursery and tree production," $25,000 to $49,999",5
+British Columbia,1 acre,111422,Floriculture production," $25,000 to $49,999",4
+British Columbia,1 acre,1119,Other crop farming," $25,000 to $49,999",0
+British Columbia,2-10 acres,11,All," $25,000 to $49,999",510
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $25,000 to $49,999",1
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $25,000 to $49,999",17
+British Columbia,2-10 acres,11221,Hog and pig farming," $25,000 to $49,999",2
+British Columbia,2-10 acres,1123,Poultry and egg production," $25,000 to $49,999",27
+British Columbia,2-10 acres,1124,Sheep and goat farming," $25,000 to $49,999",13
+British Columbia,2-10 acres,1129,Other animal production," $25,000 to $49,999",75
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $25,000 to $49,999",0
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $25,000 to $49,999",48
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $25,000 to $49,999",235
+British Columbia,2-10 acres,111411,Mushroom production," $25,000 to $49,999",2
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $25,000 to $49,999",9
+British Columbia,2-10 acres,111421,Nursery and tree production," $25,000 to $49,999",37
+British Columbia,2-10 acres,111422,Floriculture production," $25,000 to $49,999",15
+British Columbia,2-10 acres,1119,Other crop farming," $25,000 to $49,999",29
+British Columbia,11 acres and over,11,All," $25,000 to $49,999","1,246"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $25,000 to $49,999",6
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $25,000 to $49,999",351
+British Columbia,11 acres and over,11221,Hog and pig farming," $25,000 to $49,999",5
+British Columbia,11 acres and over,1123,Poultry and egg production," $25,000 to $49,999",20
+British Columbia,11 acres and over,1124,Sheep and goat farming," $25,000 to $49,999",19
+British Columbia,11 acres and over,1129,Other animal production," $25,000 to $49,999",230
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $25,000 to $49,999",23
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $25,000 to $49,999",35
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $25,000 to $49,999",134
+British Columbia,11 acres and over,111411,Mushroom production," $25,000 to $49,999",0
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $25,000 to $49,999",4
+British Columbia,11 acres and over,111421,Nursery and tree production," $25,000 to $49,999",39
+British Columbia,11 acres and over,111422,Floriculture production," $25,000 to $49,999",3
+British Columbia,11 acres and over,1119,Other crop farming," $25,000 to $49,999",377
+British Columbia,All,11,All," $50,000 to $99,999 ","1,541"
+British Columbia,All,11211,Dairy cattle and milk production," $50,000 to $99,999 ",7
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $50,000 to $99,999",332
+British Columbia,All,11221,Hog and pig farming," $50,000 to $99,999",1
+British Columbia,All,1123,Poultry and egg production," $50,000 to $99,999",28
+British Columbia,All,1124,Sheep and goat farming," $50,000 to $99,999",18
+British Columbia,All,1129,Other animal production," $50,000 to $99,999",228
+British Columbia,All,1111,Oilseed and grain farming," $50,000 to $99,999",40
+British Columbia,All,1112,Vegetable and melon farming," $50,000 to $99,999",78
+British Columbia,All,1113,Fruit and tree nut farming," $50,000 to $99,999",446
+British Columbia,All,111411,Mushroom production," $50,000 to $99,999",2
+British Columbia,All,111419,Other food crops grown under cover," $50,000 to $99,999",16
+British Columbia,All,111421,Nursery and tree production," $50,000 to $99,999",59
+British Columbia,All,111422,Floriculture production," $50,000 to $99,999",28
+British Columbia,All,1119,Other crop farming," $50,000 to $99,999",258
+British Columbia,1 acre,11,All," $50,000 to $99,999",8
+British Columbia,1 acre,11211,Dairy cattle and milk production," $50,000 to $99,999",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $50,000 to $99,999",0
+British Columbia,1 acre,11221,Hog and pig farming," $50,000 to $99,999",0
+British Columbia,1 acre,1123,Poultry and egg production," $50,000 to $99,999",2
+British Columbia,1 acre,1124,Sheep and goat farming," $50,000 to $99,999",0
+British Columbia,1 acre,1129,Other animal production," $50,000 to $99,999",2
+British Columbia,1 acre,1111,Oilseed and grain farming," $50,000 to $99,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $50,000 to $99,999",0
+British Columbia,1 acre,1113,Fruit and tree nut farming," $50,000 to $99,999",0
+British Columbia,1 acre,111411,Mushroom production," $50,000 to $99,999",0
+British Columbia,1 acre,111419,Other food crops grown under cover," $50,000 to $99,999",0
+British Columbia,1 acre,111421,Nursery and tree production," $50,000 to $99,999",1
+British Columbia,1 acre,111422,Floriculture production," $50,000 to $99,999",2
+British Columbia,1 acre,1119,Other crop farming," $50,000 to $99,999",1
+British Columbia,2-10 acres,11,All," $50,000 to $99,999",385
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $50,000 to $99,999",1
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $50,000 to $99,999",2
+British Columbia,2-10 acres,11221,Hog and pig farming," $50,000 to $99,999",1
+British Columbia,2-10 acres,1123,Poultry and egg production," $50,000 to $99,999",16
+British Columbia,2-10 acres,1124,Sheep and goat farming," $50,000 to $99,999",2
+British Columbia,2-10 acres,1129,Other animal production," $50,000 to $99,999",55
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $50,000 to $99,999",2
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $50,000 to $99,999",41
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $50,000 to $99,999",206
+British Columbia,2-10 acres,111411,Mushroom production," $50,000 to $99,999",1
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $50,000 to $99,999",8
+British Columbia,2-10 acres,111421,Nursery and tree production," $50,000 to $99,999",25
+British Columbia,2-10 acres,111422,Floriculture production," $50,000 to $99,999",17
+British Columbia,2-10 acres,1119,Other crop farming," $50,000 to $99,999",8
+British Columbia,11 acres and over,11,All," $50,000 to $99,999","1,148"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $50,000 to $99,999",6
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $50,000 to $99,999",330
+British Columbia,11 acres and over,11221,Hog and pig farming," $50,000 to $99,999",0
+British Columbia,11 acres and over,1123,Poultry and egg production," $50,000 to $99,999",10
+British Columbia,11 acres and over,1124,Sheep and goat farming," $50,000 to $99,999",16
+British Columbia,11 acres and over,1129,Other animal production," $50,000 to $99,999",171
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $50,000 to $99,999",38
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $50,000 to $99,999",37
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $50,000 to $99,999",240
+British Columbia,11 acres and over,111411,Mushroom production," $50,000 to $99,999",1
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $50,000 to $99,999",8
+British Columbia,11 acres and over,111421,Nursery and tree production," $50,000 to $99,999",33
+British Columbia,11 acres and over,111422,Floriculture production," $50,000 to $99,999",9
+British Columbia,11 acres and over,1119,Other crop farming," $50,000 to $99,999",249
+British Columbia,All,11,All," $100,000 to $249,999 ","1,594"
+British Columbia,All,11211,Dairy cattle and milk production," $100,000 to $249,999 ",33
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $100,000 to $249,999",364
+British Columbia,All,11221,Hog and pig farming," $100,000 to $249,999",2
+British Columbia,All,1123,Poultry and egg production," $100,000 to $249,999",40
+British Columbia,All,1124,Sheep and goat farming," $100,000 to $249,999",11
+British Columbia,All,1129,Other animal production," $100,000 to $249,999",182
+British Columbia,All,1111,Oilseed and grain farming," $100,000 to $249,999",50
+British Columbia,All,1112,Vegetable and melon farming," $100,000 to $249,999",94
+British Columbia,All,1113,Fruit and tree nut farming," $100,000 to $249,999",481
+British Columbia,All,111411,Mushroom production," $100,000 to $249,999",5
+British Columbia,All,111419,Other food crops grown under cover," $100,000 to $249,999",22
+British Columbia,All,111421,Nursery and tree production," $100,000 to $249,999",72
+British Columbia,All,111422,Floriculture production," $100,000 to $249,999",46
+British Columbia,All,1119,Other crop farming," $100,000 to $249,999",192
+British Columbia,1 acre,11,All," $100,000 to $249,999",21
+British Columbia,1 acre,11211,Dairy cattle and milk production," $100,000 to $249,999",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $100,000 to $249,999",0
+British Columbia,1 acre,11221,Hog and pig farming," $100,000 to $249,999",0
+British Columbia,1 acre,1123,Poultry and egg production," $100,000 to $249,999",2
+British Columbia,1 acre,1124,Sheep and goat farming," $100,000 to $249,999",0
+British Columbia,1 acre,1129,Other animal production," $100,000 to $249,999",10
+British Columbia,1 acre,1111,Oilseed and grain farming," $100,000 to $249,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $100,000 to $249,999",0
+British Columbia,1 acre,1113,Fruit and tree nut farming," $100,000 to $249,999",2
+British Columbia,1 acre,111411,Mushroom production," $100,000 to $249,999",1
+British Columbia,1 acre,111419,Other food crops grown under cover," $100,000 to $249,999",3
+British Columbia,1 acre,111421,Nursery and tree production," $100,000 to $249,999",0
+British Columbia,1 acre,111422,Floriculture production," $100,000 to $249,999",3
+British Columbia,1 acre,1119,Other crop farming," $100,000 to $249,999",0
+British Columbia,2-10 acres,11,All," $100,000 to $249,999",262
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $100,000 to $249,999",7
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $100,000 to $249,999",3
+British Columbia,2-10 acres,11221,Hog and pig farming," $100,000 to $249,999",0
+British Columbia,2-10 acres,1123,Poultry and egg production," $100,000 to $249,999",23
+British Columbia,2-10 acres,1124,Sheep and goat farming," $100,000 to $249,999",1
+British Columbia,2-10 acres,1129,Other animal production," $100,000 to $249,999",40
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $100,000 to $249,999",1
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $100,000 to $249,999",30
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $100,000 to $249,999",75
+British Columbia,2-10 acres,111411,Mushroom production," $100,000 to $249,999",4
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $100,000 to $249,999",14
+British Columbia,2-10 acres,111421,Nursery and tree production," $100,000 to $249,999",25
+British Columbia,2-10 acres,111422,Floriculture production," $100,000 to $249,999",29
+British Columbia,2-10 acres,1119,Other crop farming," $100,000 to $249,999",10
+British Columbia,11 acres and over,11,All," $100,000 to $249,999","1,311"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $100,000 to $249,999",26
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $100,000 to $249,999",361
+British Columbia,11 acres and over,11221,Hog and pig farming," $100,000 to $249,999",2
+British Columbia,11 acres and over,1123,Poultry and egg production," $100,000 to $249,999",15
+British Columbia,11 acres and over,1124,Sheep and goat farming," $100,000 to $249,999",10
+British Columbia,11 acres and over,1129,Other animal production," $100,000 to $249,999",132
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $100,000 to $249,999",49
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $100,000 to $249,999",64
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $100,000 to $249,999",404
+British Columbia,11 acres and over,111411,Mushroom production," $100,000 to $249,999",0
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $100,000 to $249,999",5
+British Columbia,11 acres and over,111421,Nursery and tree production," $100,000 to $249,999",47
+British Columbia,11 acres and over,111422,Floriculture production," $100,000 to $249,999",14
+British Columbia,11 acres and over,1119,Other crop farming," $100,000 to $249,999",182
+British Columbia,All,11,All,"$250,000 to $499,999 ",884
+British Columbia,All,11211,Dairy cattle and milk production,"$250,000 to $499,999 ",63
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots","$250,000 to $499,999",182
+British Columbia,All,11221,Hog and pig farming,"$250,000 to $499,999",2
+British Columbia,All,1123,Poultry and egg production,"$250,000 to $499,999",90
+British Columbia,All,1124,Sheep and goat farming,"$250,000 to $499,999",1
+British Columbia,All,1129,Other animal production,"$250,000 to $499,999",47
+British Columbia,All,1111,Oilseed and grain farming,"$250,000 to $499,999",27
+British Columbia,All,1112,Vegetable and melon farming,"$250,000 to $499,999",43
+British Columbia,All,1113,Fruit and tree nut farming,"$250,000 to $499,999",251
+British Columbia,All,111411,Mushroom production,"$250,000 to $499,999",3
+British Columbia,All,111419,Other food crops grown under cover,"$250,000 to $499,999",11
+British Columbia,All,111421,Nursery and tree production,"$250,000 to $499,999",56
+British Columbia,All,111422,Floriculture production,"$250,000 to $499,999",36
+British Columbia,All,1119,Other crop farming,"$250,000 to $499,999",72
+British Columbia,1 acre,11,All,"$250,000 to $499,999",13
+British Columbia,1 acre,11211,Dairy cattle and milk production,"$250,000 to $499,999",1
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots","$250,000 to $499,999",0
+British Columbia,1 acre,11221,Hog and pig farming,"$250,000 to $499,999",0
+British Columbia,1 acre,1123,Poultry and egg production,"$250,000 to $499,999",3
+British Columbia,1 acre,1124,Sheep and goat farming,"$250,000 to $499,999",0
+British Columbia,1 acre,1129,Other animal production,"$250,000 to $499,999",5
+British Columbia,1 acre,1111,Oilseed and grain farming,"$250,000 to $499,999",0
+British Columbia,1 acre,1112,Vegetable and melon farming,"$250,000 to $499,999",0
+British Columbia,1 acre,1113,Fruit and tree nut farming,"$250,000 to $499,999",0
+British Columbia,1 acre,111411,Mushroom production,"$250,000 to $499,999",0
+British Columbia,1 acre,111419,Other food crops grown under cover,"$250,000 to $499,999",1
+British Columbia,1 acre,111421,Nursery and tree production,"$250,000 to $499,999",2
+British Columbia,1 acre,111422,Floriculture production,"$250,000 to $499,999",1
+British Columbia,1 acre,1119,Other crop farming,"$250,000 to $499,999",0
+British Columbia,2-10 acres,11,All,"$250,000 to $499,999",152
+British Columbia,2-10 acres,11211,Dairy cattle and milk production,"$250,000 to $499,999",1
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots","$250,000 to $499,999",1
+British Columbia,2-10 acres,11221,Hog and pig farming,"$250,000 to $499,999",1
+British Columbia,2-10 acres,1123,Poultry and egg production,"$250,000 to $499,999",56
+British Columbia,2-10 acres,1124,Sheep and goat farming,"$250,000 to $499,999",0
+British Columbia,2-10 acres,1129,Other animal production,"$250,000 to $499,999",17
+British Columbia,2-10 acres,1111,Oilseed and grain farming,"$250,000 to $499,999",0
+British Columbia,2-10 acres,1112,Vegetable and melon farming,"$250,000 to $499,999",4
+British Columbia,2-10 acres,1113,Fruit and tree nut farming,"$250,000 to $499,999",16
+British Columbia,2-10 acres,111411,Mushroom production,"$250,000 to $499,999",1
+British Columbia,2-10 acres,111419,Other food crops grown under cover,"$250,000 to $499,999",6
+British Columbia,2-10 acres,111421,Nursery and tree production,"$250,000 to $499,999",22
+British Columbia,2-10 acres,111422,Floriculture production,"$250,000 to $499,999",23
+British Columbia,2-10 acres,1119,Other crop farming,"$250,000 to $499,999",4
+British Columbia,11 acres and over,11,All,"$250,000 to $499,999",719
+British Columbia,11 acres and over,11211,Dairy cattle and milk production,"$250,000 to $499,999",61
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots","$250,000 to $499,999",181
+British Columbia,11 acres and over,11221,Hog and pig farming,"$250,000 to $499,999",1
+British Columbia,11 acres and over,1123,Poultry and egg production,"$250,000 to $499,999",31
+British Columbia,11 acres and over,1124,Sheep and goat farming,"$250,000 to $499,999",1
+British Columbia,11 acres and over,1129,Other animal production,"$250,000 to $499,999",25
+British Columbia,11 acres and over,1111,Oilseed and grain farming,"$250,000 to $499,999",27
+British Columbia,11 acres and over,1112,Vegetable and melon farming,"$250,000 to $499,999",39
+British Columbia,11 acres and over,1113,Fruit and tree nut farming,"$250,000 to $499,999",235
+British Columbia,11 acres and over,111411,Mushroom production,"$250,000 to $499,999",2
+British Columbia,11 acres and over,111419,Other food crops grown under cover,"$250,000 to $499,999",4
+British Columbia,11 acres and over,111421,Nursery and tree production,"$250,000 to $499,999",32
+British Columbia,11 acres and over,111422,Floriculture production,"$250,000 to $499,999",12
+British Columbia,11 acres and over,1119,Other crop farming,"$250,000 to $499,999",68
+British Columbia,All,11,All," $500,000 and over","1,490"
+British Columbia,All,11211,Dairy cattle and milk production," $500,000 and over",358
+British Columbia,All,11212,"Beef cattle ranching and farming, including feedlots"," $500,000 and over",108
+British Columbia,All,11221,Hog and pig farming," $500,000 and over",14
+British Columbia,All,1123,Poultry and egg production," $500,000 and over",380
+British Columbia,All,1124,Sheep and goat farming," $500,000 and over",2
+British Columbia,All,1129,Other animal production," $500,000 and over",33
+British Columbia,All,1111,Oilseed and grain farming," $500,000 and over",54
+British Columbia,All,1112,Vegetable and melon farming," $500,000 and over",69
+British Columbia,All,1113,Fruit and tree nut farming," $500,000 and over",200
+British Columbia,All,111411,Mushroom production," $500,000 and over",18
+British Columbia,All,111419,Other food crops grown under cover," $500,000 and over",43
+British Columbia,All,111421,Nursery and tree production," $500,000 and over",74
+British Columbia,All,111422,Floriculture production," $500,000 and over",82
+British Columbia,All,1119,Other crop farming," $500,000 and over",55
+British Columbia,1 acre,11,All," $500,000 and over",4
+British Columbia,1 acre,11211,Dairy cattle and milk production," $500,000 and over",0
+British Columbia,1 acre,11212,"Beef cattle ranching and farming, including feedlots"," $500,000 and over",0
+British Columbia,1 acre,11221,Hog and pig farming," $500,000 and over",0
+British Columbia,1 acre,1123,Poultry and egg production," $500,000 and over",1
+British Columbia,1 acre,1124,Sheep and goat farming," $500,000 and over",0
+British Columbia,1 acre,1129,Other animal production," $500,000 and over",1
+British Columbia,1 acre,1111,Oilseed and grain farming," $500,000 and over",0
+British Columbia,1 acre,1112,Vegetable and melon farming," $500,000 and over",0
+British Columbia,1 acre,1113,Fruit and tree nut farming," $500,000 and over",0
+British Columbia,1 acre,111411,Mushroom production," $500,000 and over",0
+British Columbia,1 acre,111419,Other food crops grown under cover," $500,000 and over",0
+British Columbia,1 acre,111421,Nursery and tree production," $500,000 and over",1
+British Columbia,1 acre,111422,Floriculture production," $500,000 and over",1
+British Columbia,1 acre,1119,Other crop farming," $500,000 and over",0
+British Columbia,2-10 acres,11,All," $500,000 and over",264
+British Columbia,2-10 acres,11211,Dairy cattle and milk production," $500,000 and over",0
+British Columbia,2-10 acres,11212,"Beef cattle ranching and farming, including feedlots"," $500,000 and over",1
+British Columbia,2-10 acres,11221,Hog and pig farming," $500,000 and over",4
+British Columbia,2-10 acres,1123,Poultry and egg production," $500,000 and over",173
+British Columbia,2-10 acres,1124,Sheep and goat farming," $500,000 and over",0
+British Columbia,2-10 acres,1129,Other animal production," $500,000 and over",10
+British Columbia,2-10 acres,1111,Oilseed and grain farming," $500,000 and over",0
+British Columbia,2-10 acres,1112,Vegetable and melon farming," $500,000 and over",4
+British Columbia,2-10 acres,1113,Fruit and tree nut farming," $500,000 and over",5
+British Columbia,2-10 acres,111411,Mushroom production," $500,000 and over",9
+British Columbia,2-10 acres,111419,Other food crops grown under cover," $500,000 and over",5
+British Columbia,2-10 acres,111421,Nursery and tree production," $500,000 and over",12
+British Columbia,2-10 acres,111422,Floriculture production," $500,000 and over",39
+British Columbia,2-10 acres,1119,Other crop farming," $500,000 and over",2
+British Columbia,11 acres and over,11,All," $500,000 and over","1,222"
+British Columbia,11 acres and over,11211,Dairy cattle and milk production," $500,000 and over",358
+British Columbia,11 acres and over,11212,"Beef cattle ranching and farming, including feedlots"," $500,000 and over",107
+British Columbia,11 acres and over,11221,Hog and pig farming," $500,000 and over",10
+British Columbia,11 acres and over,1123,Poultry and egg production," $500,000 and over",206
+British Columbia,11 acres and over,1124,Sheep and goat farming," $500,000 and over",2
+British Columbia,11 acres and over,1129,Other animal production," $500,000 and over",22
+British Columbia,11 acres and over,1111,Oilseed and grain farming," $500,000 and over",54
+British Columbia,11 acres and over,1112,Vegetable and melon farming," $500,000 and over",65
+British Columbia,11 acres and over,1113,Fruit and tree nut farming," $500,000 and over",195
+British Columbia,11 acres and over,111411,Mushroom production," $500,000 and over",9
+British Columbia,11 acres and over,111419,Other food crops grown under cover," $500,000 and over",38
+British Columbia,11 acres and over,111421,Nursery and tree production," $500,000 and over",61
+British Columbia,11 acres and over,111422,Floriculture production," $500,000 and over",42
+British Columbia,11 acres and over,1119,Other crop farming," $500,000 and over",53
