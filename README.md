@@ -1,6 +1,6 @@
 Optimal Water Allocation for Agricultural Production in British Columbia
 ================
-Philip Loewen (Student \#: 70359054)
+Philip Loewen
 2023-04-15
 
 - <a href="#introduction" id="toc-introduction">Introduction</a>
