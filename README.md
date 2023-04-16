@@ -3,6 +3,7 @@ Optimal Water Allocation for Agricultural Production in British Columbia
 Philip Loewen
 2023-04-15
 
+
 - <a href="#introduction" id="toc-introduction">Introduction</a>
 - <a href="#agricultural-snapshot-of-bc"
   id="toc-agricultural-snapshot-of-bc">Agricultural Snapshot of BC</a>
@@ -12,7 +13,7 @@ Philip Loewen
 - <a href="#conclusion" id="toc-conclusion">Conclusion</a>
 - <a href="#refs" id="toc-refs">References</a>
 
-## Introduction
+# Introduction
 
 With climate change, the problem of water allocation has become more and
 more important. Every year, summers in British Columbia become harsher
@@ -26,15 +27,59 @@ during the month of August, with the goal to maximize the overall
 revenue of the agricultural industry, with the limited quantity of water
 available.
 
-<div class="figure" style="text-align: center">
 
-<img src="misc/Livestock_Water_Req.png" alt="Estimated average daily water consumption for livestock (us gallons per day)"  />
+<table>
+
+<tr><td>
+
+|Type Of Animal| Gallons Per Day|
+|---|---|
+|***Beef***| |
+|Cow with calf| 12|
+|Draw cow/Mature Cow| 10|
+|Calf| 3|
+|Feeder - growing| 6-9|
+|Feeder - finishing| 9-12|
+|Bull | 12|
+|***Dairy***| |
+|Milking| 36|
+|Dry cow/Replacement| 12|
+|Calf| 3.5|
+|Sheep and Goats | |
+|Ewe/Doe| 2.5|
+|Milking Ewe/Doe| 3.5|
+|Feeder Lamb/Kid| 2|
+|***Bison, Horse, Mule***| 12|
+
+</td><td>
+
+|Type Of Animal| Gallons Per Day|
+|---|---|
+|***Swine***| |
+|Farrow - finish| 24/sow|
+|Farrow - late wean| 8/sow|
+|Farrow - early wean| 6.5/sow|
+|Feeder | 2/pig |
+|Weaner | 0.6/pig|
+|***Poultry (per 100)***| |
+|Broiler| 4.2 |
+|Roaster/Pullet| 4.8|
+|Layer| 6.5|
+|Breeder| 8.5|
+|Turkey-grower|15.5|
+|Turkey - heavy| 19|
+|***Ostritch***| 1.2|
+|***Deer, LLama, Alpaca***| 2.5|
+|***Elk, Donkey***|6|
+
+</td></tr>
+</table>
+
 <p class="caption">
-Estimated average daily water consumption for livestock (us gallons per
-day)
+Estimated average daily water consumption for livestock (source: Ministry of Agriculture and Lands BC, 2006)
 </p>
+<br/><br/>
 
-</div>
 
 Using data from previous years (Statistics Canada, 2012), the province
 of British Columbia uses 60 million $m^3$ of water in the months of July
@@ -44,7 +89,26 @@ British Columbia is very agriculturally diverse, with many cattle,
 poultry as well as fruit and tree farms. The number of farms of each
 type is as follows:
 
+
+|Farm Types |	Number of farms |
+|---|---|
+|Total number of farms |	15,841 |
+|Oilseed and grain farming	| 419 |
+|Vegetable and melon farming	| 1,077 |
+|Fruit and tree nut farming	| 3,036 |
+|Greenhouse, nursery and floriculture production	| 1,167 |
+|Other crop farming	| 3,021 |
+|Cattle ranching and farming	| 2,776 |
+|Hog and pig farming	| 93 |
+|Poultry and egg production	| 1,266 |
+|Sheep and goat farming | 636 |
+|Other animal production	| 2,350 |
+
+<p class="caption">
 (Statistics Canada, 2021b)
+</p>
+
+<br/><br/>
 
 Each farm type will require a different amount of water. On top of this,
 the quantity of water required in each type will also differ, as larger
@@ -75,17 +139,19 @@ farms.
 Of these remain farms, we have oilseed and grain, vegetable and melon,
 fruit and tree nut, greenhouse, nursery and floriculture and finally
 “other crop” farms.
+<br/><br/>
 
-## Agricultural Snapshot of BC
+# Agricultural Snapshot of BC
 
 <div class="figure" style="text-align: center">
 
-<img src="misc/agri_regional_boundary.jpeg" alt="Agricultural Regions of BC (source: Government of BC)" width="5000px" />
+<img src="misc/agri_regional_boundary.jpeg" alt="Agricultural Regions of BC (source: Government of BC)" width="400px" />
 <p class="caption">
 Agricultural Regions of BC (source: Government of BC)
 </p>
 
 </div>
+<br/><br/>
 
 With a surface of 944 735 $m^2$, British Columbia is the second biggest
 province in Canada, and the fourth biggest province or territory in the
@@ -103,8 +169,9 @@ and dairy, while earning the top gross farm receipts (The British
 Columbia Agriculture in the Classroom Foundation, 2014). Indeed while
 driving on highway 1 eastbound, it is not uncommon to see, or smell
 these livestock farms along the road.
+<br/><br/>
 
-## Methodology
+# Methodology
 
 To calculate the optimal quantities of water for each farm type, much
 cleaning of the data and reformatting had to be done.
@@ -160,11 +227,29 @@ for our constraints, then the farm revenue dictionary, which gives the
 the revenue each farm type receives in receipts under normal conditions
 and finally the regular water requirements for each farm type. The last
 two of these dictionaries were used for our objective function.
+<br/><br/>
 
-## Findings and discussion
+# Findings and discussion
 
 When computing the optimal value with PuLP, we can summarise the
 findings in the following table:
+
+
+| Farm Type | Quantity of Water (gallons) |
+|---|---|
+|Floriculture production | 39,852,800.0 |
+|Fruit and tree nut farming | 165,669,000.0 |
+|Mushroom production | 14,416,500,000.0 |
+|Nursery and tree production | 204,991,000.0 |
+|Oilseed and grain farming | 64,426,200.0 |
+|Other crop farming | 295,189,000.0 |
+|Other food crops grown under cover | 1,203,1800.0 |
+|Vegetable and melon farming | 257,242,000.0 |
+
+<br/><br/>
+
+
+
 Using these quantities, an optimal revenue of 19,336,281,594.289265 \$
 was calculated.
 
@@ -192,8 +277,9 @@ level would require great control over the available water from the
 government to have the precise allocation calculated. This is not very
 feasible in an economy like BC’s where farmers usually embrace more
 freedom of operation rather than less.
+<br/><br/>
 
-## Conclusion
+# Conclusion
 
 Despite the limitations of this analysis, I believe a model such as the
 one I constructed could be very valuable for the economy of British
@@ -205,7 +291,10 @@ to the output of the farm. Furthermore I would consider farms at an
 individual scale to assess each farm’s needs and allocate water more
 efficiently to each and every one of them.
 
-## References
+<br/><br/>
+<br/><br/>
+
+# References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
