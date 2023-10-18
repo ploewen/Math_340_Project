@@ -250,7 +250,7 @@ findings in the following table:
 
 
 
-Using these quantities, an optimal revenue of 19,336,281,594.289265 \$
+Using these quantities, an optimal revenue of 15,336,281,594.289265 \$
 was calculated.
 
 Clearly there are some limitations to this analysis. Firstly, this is
